@@ -2,6 +2,8 @@
 
 A machine learning-based recommendation system that suggests similar games to users based on their genre preferences. This project is built using **Python**, and the user interface is developed with **Streamlit**.
 
+➡️ [Live](https://game-recommender-system-mzug7hfzuzpc3z2wsqsj8z.streamlit.app/)
+
 ---
 
 ## 📋 Features
