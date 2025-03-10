@@ -4,6 +4,9 @@ A machine learning-based recommendation system that suggests similar games to us
 
 ➡️ [Live](https://game-recommender-system-mzug7hfzuzpc3z2wsqsj8z.streamlit.app/)
 
+![image](https://github.com/user-attachments/assets/682ea8c5-c319-4ac6-ab24-c0a6a552405b)
+
+
 ---
 
 ## 📋 Features
